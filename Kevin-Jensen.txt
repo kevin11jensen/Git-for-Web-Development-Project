@@ -1,5 +1,5 @@
 
-
+https://codepen.io/Kevin112/pen/BayyZZb
 
 
 
@@ -64,7 +64,7 @@
 	 In CSS you can select a class by writing the name of the class in dot notation “.class” and then “{}” and the info about styling goes in between the brackets.
 
     21. How do we select a p element with a single class of “human””?
-	 .human {}
+	 p.human {}
 
     22. What is a parent child selector? When would this be useful? 
 	 The parent child selector selects all elements that are a direct child of the specified element. A basic example of this is if you wanted to select every h2 element within a div you could write “div > h2” and the h2 elements not within a div would not be selected.
