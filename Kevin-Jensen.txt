@@ -135,18 +135,19 @@
  
 
 
-Stretch Questions
+	Stretch Questions
 
-1.	What is the difference between an inline element and a block element?
-An inline element only takes up as much width as necessary while a block element starts on a new line and takes up the entire width available. An example of an inline element is the link tag <a> which adds a link within a block of code. Block elements are used for “containers” of code in the case of <div> or <section> and represent blocks of code.
-
-
-2.	What happens when an element is positioned absolutely? 
+	1.What is the difference between an inline element and a block element?
+	   An inline element only takes up as much width as necessary while a block element starts on a new line and takes up the entire width available. An example of an inline element is the link tag <a> which adds a link within a block of code. Block elements are used for “containers” of code in the case of <div> or <section> and represent blocks of code.
 
 
-3.	How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
-
-4.	Name 3 elements that are display block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+	2.What happens when an element is positioned absolutely? 
 
 
-    5. In your own words, explain the box model. What is the fix for the box model?
+	3.How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+
+
+	4.Name 3 elements that are display block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+
+
+    	5. In your own words, explain the box model. What is the fix for the box model?
